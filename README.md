@@ -21,9 +21,10 @@
 - Do the assignment. For this assignment (assignment zero):
   - Open README.md in the IDE 
   - Write your full name and your group members' full name as well.  
-    - **Your Name**: your-name, your-github-account 
-    - **Team Member 1**: team-member-one-name, github-account
-    - **Team Member 2**: team-member-two-name, github-account
+    - **Your Name**: Michele Esercitato, Mik-Ese
+    - **Team Member 1**: Cheyenne Goh, cheyennegoh
+    - **Team Member 2**: Dylan Mah, mcdylan38
+    - **Team Member 3**: Faisal Hossain, fmhossai
     
 - Add changed README.md to local repository: `c:\seng438\seng438-a0-ymbibalan\git add . `
 - Commit changes: `git commit -m "update team information"` 
